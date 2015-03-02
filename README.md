@@ -1,4 +1,4 @@
-The run_analysis.R script assumes that the appropriate data files are in your working directory.  It does the following:
+The run_analysis.R script assumes that the appropriate "UCI HAR Dataset" folder containing all of the relevant data files is your working directory.  It does the following:
 
 1. Loads the dplyr and tidyr packages
 
